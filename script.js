@@ -1,7 +1,8 @@
 // 1. Create an HTML file and link this JavaScript file. Make sure the HTML file has the proper boilerplate. In the body, add an empty div with and id but without any content.
 
 // 2. To confirm if the first step was successful, initiate an alert() method with a success message of your choice in it. If the alert message shows up when you open the HTML file in the browser, you can continue. If not, make sure to debug and link properly.
-console.log.alert("You have Success!");
+myAlert = "success";
+console.log.alert(#myAlert);
 // 3. Using escape characters and single quotes ('), generate a message, declare a variable and assign this message to the variable. Hint: Your message can be anything buy must be wrapped in single quotes.
 // i.e. 'She's is right. I'd like to reconsider others' ideas.'
 
